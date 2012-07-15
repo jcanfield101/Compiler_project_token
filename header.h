@@ -1,5 +1,5 @@
 /******************************************************************************************************************
-*** Name:       Jonathan Canfield, Ali Alrajhi																	***
+*** Name:       Jonathan Canfield																				***
 *** Clase:      CPSC 323																						***
 *** Professor:  Choi																							***
 *** Assignment: #1																								***
